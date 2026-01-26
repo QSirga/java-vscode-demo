@@ -1,4 +1,13 @@
+/**
+ * Entry point for the Java application.
+ * This program prints several sentences to the console.
+ */
+
 public class Main {
+    /**
+     * main method - program execution starts here.
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("Hello, and welcome to Java!");
         System.out.println("This is how you print sentences to the console.");
