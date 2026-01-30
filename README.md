@@ -9,7 +9,7 @@
 - **Repo Link:** https://github.com/QSirga/java-vscode-demo/new/master
 
 ## Screencast Video
-- **Video Link:** https://1drv.ms/v/c/c27138918bf0f4bb/IQAnixOjKWOaS4fiFFqvb5wJARkVX8ec4WaAjPwZAa-9ZII?e=5mjzFK 
+- **Video Link:** https://youtu.be/6ayMrSdPDm0
 - **Length:** ~2:39
 
 ## Tools Used
