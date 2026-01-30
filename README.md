@@ -9,13 +9,13 @@
 - **Repo Link:** https://github.com/QSirga/java-vscode-demo/new/master
 
 ## Screencast Video
-- **Video Link:** https://[youtube-or-vimeo-link]
-- **Length:** ~[mm:ss] (must be 3:00 or less)
+- **Video Link:** https://[youtube-or-vimeo-link]](https://1drv.ms/v/c/c27138918bf0f4bb/IQAnixOjKWOaS4fiFFqvb5wJARkVX8ec4WaAjPwZAa-9ZII?e=5mjzFK 
+- **Length:** ~2:39
 
 ## Tools Used
 - **IDE:** Visual Studio Code (VS Code)
 - **AI Tools:** GitHub Copilot + ChatGPT
-- **Screencast Software:** [Software Name] [Version]
+- **Screencast Software:** OBS studio
 - **Java/JDK:** [JDK version, e.g., 17 or 21]
 
 ## What This Project Does
