@@ -16,6 +16,9 @@ public class Main {
         System.out.println("I forgot to introduce myself!");
         System.out.println("My name is Becca, and I'm a freshman at CPP.");
         System.out.println("I'm majoring in Computer Science");
+        System.out.print("I am eager to join clubs and participate in research oppurtunities.");
+        
+        
     }
     
 }
